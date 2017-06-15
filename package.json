@@ -1,5 +1,7 @@
 {
   "name": "new_dog_daycare",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
